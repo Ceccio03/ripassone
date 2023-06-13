@@ -21,3 +21,9 @@ main{
     width: 800px;
     height: 450px;
 }
+
+footer{
+    background-color: #050512;
+    color: white;
+    padding: 20px;
+}
